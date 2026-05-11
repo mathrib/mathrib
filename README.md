@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c3MDRyeGdla241cWM0MHo1dzRrdXcyNWxveXg3ZmNvYjR6Y2g2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SSf1BUICbHfcBCybPd/giphy.gif" width="280" alt="AI Robot" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdwZmIxenQxdTJzODR4Nzd0M29keHlrMmczcGJsOXJkMzRvNGVlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="250" alt="Robot Coding" />
 
 # Matheus Ribeiro da Fonseca
 
