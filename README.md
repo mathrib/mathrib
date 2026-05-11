@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3c3MDRyeGdla241cWM0MHo1dzRrdXcyNWxveXg3ZmNvYjR6Y2g2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SSf1BUICbHfcBCybPd/giphy.gif" width="280" alt="AI Robot" />
+
 # Matheus Ribeiro da Fonseca
 
 **Analista de Onboarding | Customer Success | Plataformas Conversacionais**
@@ -106,7 +108,7 @@ Atualmente expandindo minha atuação técnica com estudos em **Python**, **enge
 
 - 🐍 Introdução à Linguagem Python — OneBitCode (2025)
 - 📦 Módulos e PIP no Python — OneBitCode (2025)
-- 📂 Manipulação de Arquivos com Python — OneBitCode (2026)
+- 📂 Manipulação de Arquivos com Python — OneBitCode (2025)
 - 🔀 Git e GitHub — OneBitCode (2025)
 - 🇬🇧 Certificado de Inglês — British and American (2021)
 - 🤖 Juiz Voluntário — Olimpíada Brasileira de Robótica (2019)
